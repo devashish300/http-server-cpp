@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+*.o
+*.out
+server
+encrypt_decrypt
+
+# IDE
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
